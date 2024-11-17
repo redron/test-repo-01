@@ -1,3 +1,6 @@
+## Copyright
+
+Copyright © 2024 redron. All rights reserved.
 # test-repo-01
 
 This is a test repository for learning and experimenting with GitHub features.
